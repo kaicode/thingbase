@@ -1,4 +1,6 @@
 thingbase
 =========
 
-XML Entity Store
+XML Entity Store.
+
+Not much here yet.
